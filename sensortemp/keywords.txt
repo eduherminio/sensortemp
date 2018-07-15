@@ -6,7 +6,7 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-sensortemp	KEYWORD1	sensortemp
+sensortemp	KEYWORD1
 
 LiquidCrystal	KEYWORD1	LiquidCrystal
 
